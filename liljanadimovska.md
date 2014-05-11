@@ -12,3 +12,8 @@ Hello
 Линк: www.google.com
 
 :+1:
+:spark
+:-1:
+:100:
+:1234:
+:8ball:

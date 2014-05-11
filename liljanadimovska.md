@@ -11,4 +11,4 @@ Hello
 
 Линк: www.google.com
 
-:+1
+:+1:

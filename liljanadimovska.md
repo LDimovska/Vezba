@@ -19,6 +19,8 @@
 
 r ajl
 
+*This text will be italic*
+**This text will be bold**
 
 - [x] @mentions, #refs, [links](https://google.com), **formatting**, and <del>tags</del> are supported 
 - [x] list syntax is required (any unordered or ordered list supported) 

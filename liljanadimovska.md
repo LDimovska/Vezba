@@ -12,7 +12,7 @@ Hello
 Линк: www.google.com
 
 :+1:
-:spark
+:sparkles:
 :-1:
 :100:
 :1234:

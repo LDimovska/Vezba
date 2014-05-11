@@ -7,6 +7,8 @@
 
 Линк: www.google.com
 
+Roses are red
+Violets are blue
 :+1:
 :sparkles:
 :-1:
@@ -15,7 +17,6 @@
 :8ball:
 
 _italic_
-
 ~~Error~~
 ```
 if(true){

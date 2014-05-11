@@ -7,7 +7,7 @@
 
 Линк: www.google.com
 
-- [x] @mentions, #refs, [links](https://confluence.atlassian.com/display/STASH/Basic+Git+commands), **formatting**, and <del>tags</del> are supported 
+- [x] @mentions, #refs, [links](https://google.com), **formatting**, and <del>tags</del> are supported 
 - [x] list syntax is required (any unordered or ordered list supported) 
 - [x] this is a complete item 
 - [ ] this is an incomplete item

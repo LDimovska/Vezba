@@ -4,8 +4,6 @@
 
 ### Header Style 3
 
-Bulleted lists
-Bulleted lists
 
 Hello 
 
@@ -21,3 +19,4 @@ Hello
 _italic_
 
 ~~Error~~
+    proba

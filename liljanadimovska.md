@@ -17,4 +17,7 @@ Hello
 :100:
 :1234:
 :8ball:
-\n _italic_
+
+_italic_
+
+~~Error~~

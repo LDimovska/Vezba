@@ -7,7 +7,7 @@
 
 Линк: www.google.com
 
-* #Num: #1
+
 
 * SHA: 17bb13a686306dd0e95428d89311e45342532db0
 * User@SHA: mojombo@17bb13a686306dd0e95428d89311e45342532db0

@@ -7,6 +7,8 @@
 
 Линк: www.google.com
 
+* #Num: #1
+
 - [x] @mentions, #refs, [links](https://google.com), **formatting**, and <del>tags</del> are supported 
 - [x] list syntax is required (any unordered or ordered list supported) 
 - [x] this is a complete item 
